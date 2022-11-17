@@ -4,7 +4,8 @@
 In this project, we want to build an excel dashboard to analyze the information of customers who are buying or not buying bikes from a company.
 
 ## **Data source**
-The data source is a csv file that has information on customers' gender, income, commute distance, education, occupation, etc.![originaldata](https://user-images.githubusercontent.com/103335114/202567965-a50ac20e-978e-42c8-b5e8-064b9707a60d.png = 100 x 100)
+The data source is a csv file that has information on customers' gender, income, commute distance, education, occupation, etc.
+<img src="https://user-images.githubusercontent.com/103335114/202567965-a50ac20e-978e-42c8-b5e8-064b9707a60d.png" width="200" height="100>
 
 ## **Data cleaning in excel**
 - We want to create a new working sheet in the same workbook while keeping and referring to the original one.
