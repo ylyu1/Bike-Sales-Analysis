@@ -15,8 +15,7 @@ The data source is a csv file that has information on gender, income, commute di
 
 
 ## **Data manipulation in excel**
-We created pivot tables with charts based on different data combinations. These pivot tables will be added into the bike sales dashboard to filter and browse customers' information. <img src="https://user-images.githubusercontent.com/103335114/202571992-6c44796b-6204-4b5e-b05a-73650c4c4661.png" width=100% height=100%>
+We created pivot tables with charts based on different data combinations. These pivot tables will be added into the bike sales dashboard to browse the  customer information. <img src="https://user-images.githubusercontent.com/103335114/202571992-6c44796b-6204-4b5e-b05a-73650c4c4661.png" width=100% height=100%>
 
 ## **Dashboard with slicers**
-By adding the slicers, we can check the customers information with more details.
-<img src="https://user-images.githubusercontent.com/103335114/202572220-90b225ed-5ef3-4b9b-95f7-5fc3cb0fa397.png" width=100% height=100%>
+By adding the slicers, we can check the customers information with more details. <img src="https://user-images.githubusercontent.com/103335114/202572220-90b225ed-5ef3-4b9b-95f7-5fc3cb0fa397.png" width=100% height=100%>
