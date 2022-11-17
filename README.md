@@ -6,9 +6,7 @@ In this project, we want to build an excel dashboard to analyze the information 
 ## **Data source**<br/>
 The data source is a csv file that has information on customers' gender, income, commute distance, education, occupation, etc.
 
-
 ![originaldata](https://user-images.githubusercontent.com/103335114/202567965-a50ac20e-978e-42c8-b5e8-064b9707a60d.png)
-
 
 ## **Data cleaning**<br/>
 We use excel for data cleaning.
