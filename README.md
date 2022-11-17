@@ -7,7 +7,7 @@ In this project, we want to build an excel dashboard to analyze the information 
 The data source is a csv file that has information on gender, income, commute distance, education, occupation, etc.
 <img src="https://user-images.githubusercontent.com/103335114/202567965-a50ac20e-978e-42c8-b5e8-064b9707a60d.png" width=100% height=100%>
 
-## **Data cleaning in excel**
+## **Data cleaning in Excel**
 - We want to create a new working sheet in the same workbook while keeping and referring to the original one.
 - We want to first remove the duplicates rows in the working sheet by using the “removing duplicates” function. We have 26 duplicate found and removed. 
 -  For the “Marital Status” and the “Gender” column, the S/M and F/M values are vague. We want to clarify them to Single/Married and Female/Male, respectively. So we select each of the two columns and apply the “find and replace” function.
