@@ -14,7 +14,7 @@ The data source is a csv file that has information on gender, income, commute di
 - For the “Age” column, there are too many individual ages. For easier visualization, we want to add a “Age Brackets” column to categorize these individual ages. Using the if() function, we set ages older than 60 as “old”; ages younger than 60 but older than 40 as “middle age”; ages younger than 40 but older than 18 as “young adult”. <img src="https://user-images.githubusercontent.com/103335114/202569438-8e9450a1-9a38-4f37-8249-10319775cba8.png" width=100% height=100%>
 
 
-## **Data manipulation in excel**
+## **Data manipulation in Excel**
 We created pivot tables with charts based on different data combinations. These pivot tables will be added into the bike sales dashboard to browse the  customer information. <img src="https://user-images.githubusercontent.com/103335114/202571992-6c44796b-6204-4b5e-b05a-73650c4c4661.png" width=100% height=100%>
 
 ## **Dashboard with slicers**
