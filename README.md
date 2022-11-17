@@ -1,6 +1,6 @@
 # Bike Sales Analysis
 
-## Purpose**
+## Purpose
 In this project, we want to build an excel dashboard to analyze the information of customers who are buying or not buying bikes from a company.
 
 ## Data source
