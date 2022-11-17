@@ -3,12 +3,12 @@
 ## **Purpose**
 In this project, we want to build an excel dashboard to analyze the information of customers who are buying or not buying bikes from a company.
 
-## **Data source**<br/>
+## **Data source**
 The data source is a csv file that has information on customers' gender, income, commute distance, education, occupation, etc.
 
 ![originaldata](https://user-images.githubusercontent.com/103335114/202567965-a50ac20e-978e-42c8-b5e8-064b9707a60d.png)
 
-## **Data cleaning**<br/>
+## **Data cleaning**
 We use excel for data cleaning.
 1. We want to create a new working sheet in the same workbook while keeping and referring to the original one.
 2. We want to first remove the duplicates rows in the working sheet by using the “removing duplicates” function. We have 26 duplicate found and removed. 
