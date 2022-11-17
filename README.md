@@ -7,7 +7,7 @@ In this project, we want to build an excel dashboard to analyze the information 
 The data source is a csv file that has information on customers' gender, income, commute distance, education, occupation, etc.
 
 
-Data cleaning
+## **Data cleaning**<br/>
 We use excel for data cleaning.
 1. We want to create a new working sheet in the same workbook while keeping and referring to the original one.
 2. We want to first remove the duplicates rows in the working sheet by using the “removing duplicates” function. We have 26 duplicate found and removed. 
